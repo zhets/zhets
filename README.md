@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm FV STORE</h1>
 <h3 align="center">I Come From Lampung, North Lampung, Indonesia</h3>
 
-<h4 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Welcome%20To%20My%20Github!)](https://git.io/typing-svg)
-</h4
 
 ### **[+] Find Me On :**
 <p align="center">
