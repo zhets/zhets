@@ -3,7 +3,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=Welcome%20To%20My%20Github!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&height=85&lines=Hello,+Welcome+To;Github+FV+STORE">
 
 ### **[+] Find Me On :**
 <p align="center">
