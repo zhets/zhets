@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm FV STORE</h1>
+<h1 align="center">Hi 👋, I'm XDXL STORE</h1>
 <h3 align="center">I Come From Lampung, North Lampung, Indonesia</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&height=85&lines=Hello,+Welcome+To;Github+FV+STORE">
+<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&height=85&lines=Hello,+Welcome+To;Github+XDXL+STORE">
 
 ### **[+] Find Me On :**
 <p align="center">
@@ -38,5 +38,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="zhets" />
 </p>
 
-<summary>&#127942 <b>Created By @fv_stores</b>
+<summary>&#127942 <b>Created By @xdxl_store</b>
 </summary>
