@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm XDXL STORE</h1>
+<h1 align="center">Hi 👋, I'm FV STORE</h1>
 <h3 align="center">I Come From Lampung, North Lampung, Indonesia</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&height=85&lines=Hello,+Welcome+To;Github+XDXL+STORE">
+<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&height=85&lines=Hello,+Welcome+To;Github+FV+STORE">
 
 ### **[+] Find Me On :**
 <p align="center">
-  <a href="https://t.mr/fv_stores"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/xdxl_store"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://wa.me/6285935195701"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://t.mr/fv_stores"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://t.me"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://t.me/fv_stores"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
