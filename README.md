@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm FV STORE</h1>
+<h1 align="center">Hi 👋, I'm XDXL STORES</h1>
 <h3 align="center">I Come From Lampung, North Lampung, Indonesia</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&height=85&lines=Hello,+Welcome+To;Github+FV+STORE">
+<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&height=85&lines=Hello,+Welcome+To;Github+XDXL+STORES">
 
 ### **[+] Find Me On :**
 <p align="center">
