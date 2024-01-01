@@ -31,7 +31,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=project&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=izinsc&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=zhets&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=tele_bot&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=ScriptAutoInstall-xdxl&theme=nightowl)
 
 ### **GitHub Streak:**
 <p align="center">
