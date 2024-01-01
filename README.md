@@ -35,7 +35,7 @@
 
 ### **GitHub Streak:**
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanzanphelibelll&" alt="zhets" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhets&" alt="zhets" />
 </p>
 
 <summary>&#127942 <b>Created By @xdxl_store</b>
