@@ -27,12 +27,6 @@
   <a href="https://github.com/zhets"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhets&theme=radical&layout=compact"></a>
 </p> 
 
-### **Repo Stats:**
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=project&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=izinsc&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=KREK&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=ScriptAutoInstall-xdxl&theme=nightowl)
-
 ### **GitHub Streak:**
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhets&" alt="zhets" />
