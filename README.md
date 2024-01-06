@@ -5,32 +5,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&height=85&lines=Hello,+Welcome+To;Github+XDXL+STORES">
 
-### **[+] Find Me On :**
 <p align="center">
-  <a href="https://t.me/xdxl_store"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://wa.me/6285935195701"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://t.me"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://t.me/fv_stores"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=zhets&show_icons=true&theme=chartreuse-dark&locale=id">
+</p>
+<p align="center">
+  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhets&layout=compact&theme=chartreuse-dark">
+</p>
+<p align="center">
+<a href="https://github.com/zhets/ScriptAutoInstall-Xdxl"><img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=zhets&repo=ScriptAutoInstall-Xdxl&theme=chartreuse-dark"></a>
+</p>
+<p align="center">
+  <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=zhets&theme=monokai&row=1&column=5&no-frame=true'
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=zhets&label=Profile%20views&color=0e75b6&style=flat" alt="zhets" />
-</p>
-
-### **GitHub Stats:**
 <p align="center">
-  <a href="https://github.com/zhets"><img src="https://github-readme-stats.vercel.app/api?username=zhets&show_icons=true&theme=radical"></a>
+  <img width="auto" height="auto" src='https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp'
 </p>
-
-### **Top Languages:**
-<p align="center">
-  <a href="https://github.com/zhets"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhets&theme=radical&layout=compact"></a>
-</p> 
-
-### **GitHub Streak:**
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhets&" alt="zhets" />
-</p>
-
-<summary>&#127942 <b>Created By @xdxl_store</b>
-</summary>
